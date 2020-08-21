@@ -7,7 +7,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	cout<<"ÌìÈôÓÐÇéÌìÒàÀÏ";
+	cout<<"å¤©è‹¥æœ‰æƒ…å¤©äº¦è€";
 	return 0;
 }
 

@@ -3,7 +3,7 @@
 ////http://acm.hdu.edu.cn
 //////////////////////////////////////////////////////
 ////Username: nicainicai
-////Nickname: Äã²Â
+////Nickname: ä½ çŒœ
 ////Run ID: 
 ////Submit time: 2016-04-17 19:16:40
 ////Compiler: GUN C++

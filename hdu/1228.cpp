@@ -3,7 +3,7 @@
 ////http://acm.hdu.edu.cn
 //////////////////////////////////////////////////////
 ////Username: nicainicai
-////Nickname: Äã²Â
+////Nickname: ä½ çŒœ
 ////Run ID: 
 ////Submit time: 2016-05-19 13:58:44
 ////Compiler: GUN C++
@@ -19,7 +19,7 @@
 using namespace std;
 int main()
 {
-	char num[10][10]={"zero","one","two","three","four","five","six","seven","eight","nine"};   //×Ö·û´®µÄ´¢´æ·½Ê½ £¬×¢ÒâË«ÒıºÅ¡£ 
+	char num[10][10]={"zero","one","two","three","four","five","six","seven","eight","nine"};   //å­—ç¬¦ä¸²çš„å‚¨å­˜æ–¹å¼ ï¼Œæ³¨æ„åŒå¼•å·ã€‚ 
 	char digit[10]; 
 	int flag=1,sum[3]={0,0,0},k=1;
 	while(scanf("%s",digit)!=EOF)

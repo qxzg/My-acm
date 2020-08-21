@@ -3,7 +3,7 @@
 ////http://acm.hdu.edu.cn
 //////////////////////////////////////////////////////
 ////Username: nicainicai
-////Nickname: Äã²Â
+////Nickname: ä½ çŒœ
 ////Run ID: 
 ////Submit time: 2016-05-19 14:03:22
 ////Compiler: GUN C++
@@ -22,9 +22,9 @@ using namespace std;
 int main(){
 	
 	int N,M,G;
-	int a[1009];//·ÖÖµ
+	int a[1009];//åˆ†å€¼
 	char name[1009][100];
-	int b[100];//z×ö¶ÔµÄÌâºÅ
+	int b[100];//zåšå¯¹çš„é¢˜å·
 	int cnt,i,j,n,m;
 	int up[1009],sum;
 	char na[1009][100];

@@ -3,7 +3,7 @@
 ////http://acm.hdu.edu.cn
 //////////////////////////////////////////////////////
 ////Username: nicainicai
-////Nickname: Äã²Â
+////Nickname: ä½ çŒœ
 ////Run ID: 
 ////Submit time: 2016-04-15 18:29:23
 ////Compiler: Visual C++
@@ -26,7 +26,7 @@ int cmp(const void *a,const void *b)
 }
 int dp()
 {
-	qsort(thing+1,n,sizeof(int),cmp);//ÅÅĞò´íÒ»¸ö»¨·ÑÎÒºÃ¼¸¸öĞ¡Ê±
+	qsort(thing+1,n,sizeof(int),cmp);//æ’åºé”™ä¸€ä¸ªèŠ±è´¹æˆ‘å¥½å‡ ä¸ªå°æ—¶
 	select[0][0]=0;
 	for(int j=1;j<=n;j++)
 	{
